@@ -10,16 +10,6 @@
 #include "StackFrame.h"
 #include <stdlib.h>
 
-/*
- * Non-static (akin to "public") functions that can be called from anywhere.
- * Comments for each function are given in the module interface StackFrame.h
- *
- * At present, they all just return 0 or do nothing.
- *
- * These are the functions you have to implement.
- *
- */
-
 unsigned long getBasePointer() {
     /** Caller's base pointer.*/
     unsigned long basePointer;
