@@ -1,0 +1,19 @@
+C-Arch feedback - 
+
+Grade: 20/20
+
+Assembly commenting
+
+	Excellent commenting.
+
+Code functionality and quality
+
+	Good code quality
+
+Analysis and report
+
+	Very good report. The analysis of the program output is excellent.
+
+Overall
+
+	A coding practical containing code achieving all specified functionality, with unusual clarity of design and implementation, together with an outstandingly well-written report showing evidence of extensive background reading, a full knowledge of the subject and insight into the problem.
