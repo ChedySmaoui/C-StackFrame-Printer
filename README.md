@@ -1,4 +1,4 @@
-# CS2002 C-Architecture
+# C-Architecture, Stackframe Printer
 
 Please give me a star if this was useful to you!
 
